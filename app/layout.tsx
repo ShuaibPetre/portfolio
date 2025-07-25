@@ -19,7 +19,10 @@ export default function RootLayout({
         className={`${inter.className} antialiased`}
       >
         <div className=""> <Header /></div>
-        <div className="">{children}</div>
+        <div className="">
+          <div className="bg-gray-200 bg-[url('/bg2.svg')] bg-no-repeat bg-center h-screen w-full bg-fixed bg-cover">{children}
+          </div>
+        </div>
       </body>
     </html>
   );
