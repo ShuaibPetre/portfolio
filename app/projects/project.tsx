@@ -27,8 +27,8 @@ const projects = [
   {
     title: "Personal Training website",
     description: "Next.js website for personal training. 100 lighthouse speed score. Integrates with Google Maps API to check if client is in service area.",
-    github: "",
-    live: "https://www.shuaibpetre.co.za/",
+    github: "https://github.com/ShuaibPetre/travellingtrainers",
+    live: "https://mysite1-blond.vercel.app/",
     img: "/laptops/5.png"
   },
   {
