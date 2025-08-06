@@ -7,7 +7,7 @@ const projects = [
     title: "Personal Portfolio",
     description: "A modern developer portfolio built with Next.js and Tailwind CSS.",
     github: "https://github.com/ShuaibPetre/portfolio",
-    live: "https://shuaibpetre.com",
+    live: "https://shuaibpetre.co.za",
     img: "/laptops/8.png"
   },
   {
